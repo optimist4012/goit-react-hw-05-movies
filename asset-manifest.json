@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-05-movies/static/css/main.e34336e5.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.c6fc5bb8.js",
+    "static/js/304.8b296eb0.chunk.js": "/goit-react-hw-05-movies/static/js/304.8b296eb0.chunk.js",
+    "static/js/50.7c652246.chunk.js": "/goit-react-hw-05-movies/static/js/50.7c652246.chunk.js",
+    "static/js/810.1dbbba65.chunk.js": "/goit-react-hw-05-movies/static/js/810.1dbbba65.chunk.js",
+    "static/js/887.bfb0bfac.chunk.js": "/goit-react-hw-05-movies/static/js/887.bfb0bfac.chunk.js",
+    "static/js/812.e58cb59a.chunk.js": "/goit-react-hw-05-movies/static/js/812.e58cb59a.chunk.js",
+    "static/js/196.026ac872.chunk.js": "/goit-react-hw-05-movies/static/js/196.026ac872.chunk.js",
+    "static/js/294.b2598e45.chunk.js": "/goit-react-hw-05-movies/static/js/294.b2598e45.chunk.js",
+    "static/js/719.3ea584e5.chunk.js": "/goit-react-hw-05-movies/static/js/719.3ea584e5.chunk.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.e34336e5.css.map": "/goit-react-hw-05-movies/static/css/main.e34336e5.css.map",
+    "main.c6fc5bb8.js.map": "/goit-react-hw-05-movies/static/js/main.c6fc5bb8.js.map",
+    "304.8b296eb0.chunk.js.map": "/goit-react-hw-05-movies/static/js/304.8b296eb0.chunk.js.map",
+    "50.7c652246.chunk.js.map": "/goit-react-hw-05-movies/static/js/50.7c652246.chunk.js.map",
+    "810.1dbbba65.chunk.js.map": "/goit-react-hw-05-movies/static/js/810.1dbbba65.chunk.js.map",
+    "887.bfb0bfac.chunk.js.map": "/goit-react-hw-05-movies/static/js/887.bfb0bfac.chunk.js.map",
+    "812.e58cb59a.chunk.js.map": "/goit-react-hw-05-movies/static/js/812.e58cb59a.chunk.js.map",
+    "196.026ac872.chunk.js.map": "/goit-react-hw-05-movies/static/js/196.026ac872.chunk.js.map",
+    "294.b2598e45.chunk.js.map": "/goit-react-hw-05-movies/static/js/294.b2598e45.chunk.js.map",
+    "719.3ea584e5.chunk.js.map": "/goit-react-hw-05-movies/static/js/719.3ea584e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34336e5.css",
+    "static/js/main.c6fc5bb8.js"
+  ]
+}
